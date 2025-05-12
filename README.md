@@ -1,7 +1,6 @@
-<img align="left" src="images/icon.png" width="180" height="180">
-
-
 ## Hey! Welcome to my GitHub page
+
+<img align="left" src="images/icon.png" width="180" height="180">
 
 <p style="margin-left: 170px;"> 
  👋🏻 I`m Egor <br>
