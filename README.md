@@ -1,14 +1,10 @@
-<table border="0" style="border: none;">
-  <tr>
-    <td width="150">
-      <img src="images/icon.png" width="140"/>
-    </td>
-    <td>
-      <h3>Hey!</h3>
-      <p>I'm Egor, a Python developer actively learning and experimenting in the fields of Machine Learning and Data Science. I'm focused on gaining hands-on experience through personal projects, and I'm always eager to explore new tools, algorithms, and approaches to intelligent systems.</p>
-    </td>
-  </tr>
-</table>
+## Hey! Welcome to my GitHub profile
+---
+### Who am I?
+<p align="left">
+  <img src="images/icon.png" alt="описание" style="float: left; margin-right: 10px;" width="160">
+  I'm Egor, a Python developer actively learning and experimenting in the fields of Machine Learning and Data Science. I'm focused on gaining hands-on experience through personal projects, and I'm always eager to explore new tools, algorithms, and approaches to intelligent systems
+</p>
 
 
 
