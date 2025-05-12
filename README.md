@@ -14,6 +14,11 @@
  <br>
 </p>
 
+## About me
+I`m a student at the Financial University under the Government of the Russian Federation, Faculty of Information Technologies and Big Data Analysis, specializing in Applied Machine Learning (2024–2028).
+
+I`m also deeply passionate about programming and development in Python, game development in Unity, and exploring new technologies
+
 
 
 
