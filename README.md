@@ -1,4 +1,4 @@
-# <img src="images/icon.png" alt="иконка" style="width: 150px; height: 150px; margin-right: 5px; vertical-align: middle;"/> Hey! Welcome to my GitHub profile
+# <img src="images/icon.png" alt="иконка" style="width: 150px; height: 150px; margin-right: 5px; vertical-align: text-top;"/> Hey! Welcome to my GitHub profile
 ---
 ## Whoami
 I'm Egor, a Python developer actively learning and experimenting in the fields of Machine Learning and Data Science. I'm focused on gaining hands-on experience through personal projects, and I'm always eager to explore new tools, algorithms, and approaches to intelligent systems
