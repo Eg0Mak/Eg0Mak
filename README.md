@@ -7,10 +7,11 @@
 <br>
 <br>
  👋🏻 I`m Egor <br>
-
+<br>
  🐍 A developer with a deep passion for Python <br>
-
+<br>
  💻 Learning and experimenting in Machine Learning and Data Science
+ <br>
 </p>
 
 
