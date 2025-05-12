@@ -2,7 +2,10 @@
 
 <img align="left" src="images/icon.png" width="180" height="180">
 
+
 <p style="margin-left: 170px;"> 
+<br>
+<br>
  👋🏻 I`m Egor <br>
 
  🐍 A developer with a deep passion for Python <br>
