@@ -1,4 +1,19 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="150">
+      <img src="images/icon.png" width="140"/>
+    </td>
+    <td>
+      <h3>Hey!</h3>
+      <p>I'm Egor, a Python developer actively learning and experimenting in the fields of Machine Learning and Data Science. I'm focused on gaining hands-on experience through personal projects, and I'm always eager to explore new tools, algorithms, and approaches to intelligent systems.</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 <!--
 **Eg0Mak/Eg0Mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
