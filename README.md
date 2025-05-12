@@ -5,7 +5,9 @@
 
 <p style="margin-left: 170px;"> 
  👋🏻 I`m Egor <br>
+
  🐍 A developer with a deep passion for Python <br>
+ 
  💻 Learning and experimenting in Machine Learning and Data Science
 </p>
 
