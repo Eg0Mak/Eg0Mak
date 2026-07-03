@@ -4,7 +4,7 @@
 
 <p style="margin-left: 170px;">
 
-👋 <b>Hi, I'm Egor Shipilov</b><br><>br
+👋 <b>Hi, I'm Egor Shipilov</b><br><br>
 
 🔬 Research Intern in <b>Machine Learning & Quantum Technologies</b><br>
 
