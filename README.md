@@ -2,40 +2,35 @@
 
 <img align="left" src="images/icon.png" width="180" height="180">
 
+<p style="margin-left: 170px;">
+<br>
+<br>
 
-<p style="margin-left: 170px;"> 
-<br>
-<br>
- 👋🏻 I`m Egor <br>
-<br>
- 🐍 A developer with a deep passion for Python <br>
-<br>
- 💻 Learning and experimenting in Machine Learning and Data Science
- <br>
+👋 Hi, I'm <b>Egor Shipilov</b><br><br>
+
+🔬 Research Intern in <b>Machine Learning & Quantum Technologies</b><br><br>
+
+🐍 Python Developer focused on <b>Machine Learning, LLMs and RAG Systems</b><br><br>
+
+🚀 Building AI agents, conducting research, and turning ideas into real projects
+
 </p>
+
 <br>
 
 ## About me
-I`m a student at the Financial University under the Government of the Russian Federation, Faculty of Information Technologies and Big Data Analysis, specializing in Applied Machine Learning (2024–2028).
 
-I`m also deeply passionate about programming and development in Python, game development in Unity, and exploring new technologies
+I'm a Bachelor's student in **Applied Machine Learning** at the Financial University under the Government of the Russian Federation (2024–2028).
 
+Currently, I work as a **Machine Learning Research Intern**, where I conduct research in quantum machine learning and participate in scientific publications.
 
+My main interests include:
 
+- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Deep Learning
+- Python Development
 
-
-
-<!--
-**Eg0Mak/Eg0Mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical AI systems—from research prototypes to production-ready applications. My recent projects include local LLM agents, RAG systems, SQL optimization assistants, and computer vision applications.
