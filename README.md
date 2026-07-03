@@ -14,6 +14,7 @@
 
 </p>
 
+<br clear="left">
 
 ## About me
 
