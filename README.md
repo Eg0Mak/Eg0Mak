@@ -3,20 +3,18 @@
 <img align="left" src="images/icon.png" width="180" height="180">
 
 <p style="margin-left: 170px;">
-<br>
-<br>
 
-👋 Hi, I'm <b>Egor Shipilov</b><br><br>
+👋 <b>Hi, I'm Egor Shipilov</b><br><br>
 
-🔬 Research Intern in <b>Machine Learning & Quantum Technologies</b><br><br>
+🔬 Research Intern in <b>Machine Learning & Quantum Technologies</b><br>
 
-🐍 Python Developer focused on <b>Machine Learning, LLMs and RAG Systems</b><br><br>
+🐍 Machine Learning Engineer focused on <b>Classical ML, LLMs & RAG</b><br>
 
-🚀 Building AI agents, conducting research, and turning ideas into real projects
+🚀 Building AI agents, conducting research, and shipping real-world ML projects
 
 </p>
 
-<br>
+<br clear="left">
 
 ## About me
 
